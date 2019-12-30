@@ -1,5 +1,7 @@
 <?php
 
+namespace viktorgreamer\packagist;
+
 
 class MyClass
 {
