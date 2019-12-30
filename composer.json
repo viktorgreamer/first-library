@@ -1,0 +1,14 @@
+{
+    "name": "viktorgreamer/first-packagist",
+    "description": "Description",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Viktor Vasilev",
+            "email": "an.viktory@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
