@@ -10,5 +10,12 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "viktorgreamer\\": "viktorgreamer/",
+            "Vendor\\Namespace\\": ""
+        }
+    }
+
 }
