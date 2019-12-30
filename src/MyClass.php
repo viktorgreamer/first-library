@@ -1,6 +1,6 @@
 <?php
 
-namespace viktorgreamer\first-packagist;
+namespace viktorgreamer\firstpackagist;
 
 
 class MyClass
